@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -Xlint:unchecked -Xlint:deprecation -cp . *.java
